@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+.header{
+justify-content: center space-between;
+background-image: url(files/Rectangle141.jpg);
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+  }
+
+.flex-container {
+
+    max-width: 1600px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    
+}
+
+.nav{
+justify-content: center space-between;
+
+}
+.button-login{
+border-radius: right-top 50%;
+border-radius: left-botton 50%;
+justify-content: right;
+}
+
+
+.login{
+justify-content: right;
+
+}
+
+
+.section-block1{
+background-image: url(files/Group481.jpg);
+justify-content: flex-start;
+
+
+}
+
+
+.conteiner{
+  justify-content: center;
+
+
+
+
+}
+
+.button{
+   
+    border-color: blue;
+    
+    border-radius: right-top 50%;
+    border-radius: left-botton 50%
+    
+
+}
+
+
+
+.a{
+justify-content: right;
+
+
+}
+
+.conteiner-info{
+justify-content: center;
+
+
+}
+
+
+
+
+.section-block2{
+background-image: url(files/Rectangle10.jpg);
+
+
+
+}
+
+.conteiner-foto{
+font-size: medium;
+}
+
+.button-trailer{
+
+    border-color: blue;
+    
+    border-radius: right-top 50%;
+    border-radius: left-botton 50%
+
+}
+
+
+.conteiner-treiler{
+background-image: files/Rectangle 10.jpg;
+
+
+}
+
+.bacground{
+background-image: files/Rectangle 20.jpg;
+}
+
+
+.bord{
+justify-content: center;
+
+}
+
+.footer{
+background-image: files/Rectangle 142.jpg;
+justify-content: cemter;
+
+}
